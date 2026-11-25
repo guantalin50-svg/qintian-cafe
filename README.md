@@ -1,2 +1,4 @@
-# qintian-cafe
-Password-protected cafe status page
+欽天咖啡廳
+
+這是一個需要密碼才能觀看的私人狀態頁。不知道密碼的人不會看到任何工作內容。
+請不要在這個倉庫裡放入明文狀態、密碼或金鑰。
